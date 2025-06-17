@@ -1,0 +1,9 @@
+# Entorno y configuración
+/.env
+/.env.*
+/.vscode/
+/.idea/
+.DS_Store
+
+# Dependencias y builds
+/vendor/
